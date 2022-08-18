@@ -4,7 +4,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zhyma&theme=vue&show_icons=ture" />
 </p>
 
-Find out more [here](http://zhyma.github.io/)
+Find out more: [portfolio](http://zhyma.github.io/), [YouTube channel](https://www.youtube.com/channel/UCQC6SYbDgg6KY1AtMet4SdQ)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyma&repo=vr15)](https://github.com/zhyma/vr15)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhyma&repo=FutabaServo)](https://github.com/zhyma/FutabaServo)
