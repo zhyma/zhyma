@@ -10,6 +10,7 @@ Find out more: [portfolio](http://zhyma.github.io/), [YouTube channel](https://w
 [![Readme Card](https://github-readme-stats-zhyma.vercel.app/api/pin/?username=zhyma&repo=force_sensing_handbrake)](https://github.com/zhyma/force_sensing_handbrake)
 [![Readme Card](https://github-readme-stats-zhyma.vercel.app/api/pin/?username=zhyma&repo=FutabaServo)](https://github.com/zhyma/FutabaServo)
 [![Readme Card](https://github-readme-stats-zhyma.vercel.app/api/pin/?username=zhyma&repo=acclaim2space)](https://github.com/zhyma/acclaim2space)
+[![Readme Card](https://github-readme-stats-zhyma.vercel.app/api/pin/?username=zhyma&repo=yumi)](https://github.com/zhyma/yumi)
 
 <!--
 **zhyma/zhyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
