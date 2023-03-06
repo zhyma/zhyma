@@ -1,10 +1,9 @@
-### Hi there 👋
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-zhyma.vercel.app/api/top-langs/?username=zhyma&layout=compact&show_icons=true&theme=vue&hide=HTML,JavaScript,CSS,AMPL,CMake" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-zhyma.vercel.app/api?username=zhyma&theme=vue&show_icons=ture" />
 </p>
 
-Find out more: [portfolio](http://zhyma.github.io/), [YouTube channel](https://www.youtube.com/channel/UCQC6SYbDgg6KY1AtMet4SdQ), 3D designs on [Thingiverse](https://www.thingiverse.com/zhyma/designs)
+Find out more: [portfolio](http://zhyma.github.io/), [YouTube channel](https://www.youtube.com/@orktechiswaaagh), 3D designs on [Thingiverse](https://www.thingiverse.com/zhyma/designs)
 
 [![Readme Card](https://github-readme-stats-zhyma.vercel.app/api/pin/?username=zhyma&repo=vr15)](https://github.com/zhyma/vr15)
 [![Readme Card](https://github-readme-stats-zhyma.vercel.app/api/pin/?username=zhyma&repo=force_sensing_handbrake)](https://github.com/zhyma/force_sensing_handbrake)
